@@ -2,7 +2,7 @@ import time
 import sys
 from scapy.all import *
 
-source_ip="192.159.12.3"
+source_ip="xxx.xxx.xxx.xxx"
 port=25565
 server_name =  sys.argv[1]
 

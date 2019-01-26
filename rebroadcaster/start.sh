@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Start server rebroadcaster
-HOSTNAME=$( grep -o -P '(?<=motd=).*' server.properties )
-[[ -z "$HOSTNAME" ]] && HOSTNAME="A minecraft server"
+HOSTNAME="A Minecraft Server"
+[[ -z "$HOSTNAME" ]] && HOSTNAME="Dick's 4 Life"
 
-python3 advertise.py "$HOSTNAME" &
+python3 advertise.py "$HOSTNAME" 
 
 
