@@ -2,7 +2,11 @@ import time
 import sys
 from scapy.all import *
 
+<<<<<<< HEAD
 source_ip="xxx.xxx.xxx.xxx"
+=======
+source_ip="192.159.12.3"
+>>>>>>> a02ea31... Firdt Commit
 port=25565
 server_name =  sys.argv[1]
 

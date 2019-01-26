@@ -1,6 +1,9 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a02ea31... Firdt Commit
 NAME=$1
 [[ -z $NAME ]] && echo "No image name given" && exit 1
 
