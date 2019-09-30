@@ -1,4 +1,4 @@
-# Rebroadcaster for Minecrafrt servers
+# Rebroadcaster for Minecraft servers
 
 This rebroadcasts a public server and as Lan server
 
